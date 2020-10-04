@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "서랑이의 일본직장생활 견문록"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Jongchan Park"
+description              : "IT업계에 종사하는 직장입니다. 지난 5년간 일본에서 회사생활을 하며 느꼈던 내용을 적어둡니다. 일본에서 생활하시려는 분들, 직장생활을 고려하시는 분들은 조금이나마 참고가 되시길 바라며."
 url                      : "https://itspjc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,11 +95,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jongchan Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "-"
+  location         : "Seoul, Korea"
+  email            : "itspjc@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
